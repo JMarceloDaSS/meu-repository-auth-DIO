@@ -4,3 +4,4 @@ Repository-auth-DIO
 1. Autenticação via nome de usuário e senha;
 2. Autenticação via Token de acesso pessoal;
 3. Autenticação via SSH;
+4. Autenticação E2F e configuração Gihub.
